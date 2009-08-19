@@ -1,10 +1,10 @@
 #summary One-sentence summary of this page.
 
-= Errores Documentados QueComes!? =
+= Errores Documentados QueComes =
 
 Error #1: 
 
-*URL del Error:* 
+*URL del Error:* <br>
 http://www.quecom.es/des/index.php?action=info&item=passerror
 
 Texto que ve el usuario: 
