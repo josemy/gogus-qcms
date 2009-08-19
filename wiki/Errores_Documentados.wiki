@@ -1,13 +1,21 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Errores Documentados QueComes!? =
 
-Add your content here.
+Error #1: 
 
+*URL del Error:* 
+http://www.quecom.es/des/index.php?action=info&item=passerror
 
-= Details =
+Texto que ve el usuario: 
+No se ha podido iniciar su sesion
+compruebe los datos y vuelva a intentarlo.
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Error #2: 
+
+URL del Error: 
+http://www.quecom.es/des/index.php?action=info&item=acterror
+
+Texto que ve el usuario: 
+No se ha podido iniciar su sesion
+su cuenta está inactiva.
