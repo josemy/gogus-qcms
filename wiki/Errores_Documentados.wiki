@@ -2,20 +2,20 @@
 
 = Errores Documentados QueComes =
 
-Error #1: 
+*Error #1:*
 
 *URL del Error:* <br>
 http://www.quecom.es/des/index.php?action=info&item=passerror
 
-Texto que ve el usuario: 
+*Texto que ve el usuario:* <br>
 No se ha podido iniciar su sesion
 compruebe los datos y vuelva a intentarlo.
 
-Error #2: 
+*Error #2:*
 
-URL del Error: 
+*URL del Error:* <br>
 http://www.quecom.es/des/index.php?action=info&item=acterror
 
-Texto que ve el usuario: 
+*Texto que ve el usuario:* <br>
 No se ha podido iniciar su sesion
 su cuenta está inactiva.
