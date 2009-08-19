@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
-= Errores Documentados QueComes =
+= Errores Documentados =
 
 *Error #1:*
 
@@ -10,7 +10,7 @@ http://www.quecom.es/des/index.php?action=info&item=passerror
 *Texto que ve el usuario:* <br>
 No se ha podido iniciar su sesion
 compruebe los datos y vuelva a intentarlo.
-
+<br><br>
 *Error #2:*
 
 *URL del Error:* <br>
@@ -19,3 +19,16 @@ http://www.quecom.es/des/index.php?action=info&item=acterror
 *Texto que ve el usuario:* <br>
 No se ha podido iniciar su sesion
 su cuenta está inactiva.
+<br><br>
+
+*Error #3:*
+
+*URL del Error:* <br>
+http://www.quecom.es/des/index.php?action=info&item=generic
+
+*Texto que ve el usuario:* <br>
+Se ha producido un error inesperado. Por favor, reintenta la acción.
+
+*Motivo:* <br>
+Error generico, principalmente debido a que el usuario modifica la barra de direcciones.
+
