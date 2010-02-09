@@ -1,0 +1,6 @@
+Borrar buscadores del log:
+
+DELETE FROM `logs` WHERE `logs`.`host` like '%.googlebot.com'
+DELETE FROM `logs` WHERE `logs`.`username` like 'rebrok'
+DELETE FROM `logs` WHERE `logs`.`host` like '%.cuil.com'
+DELETE FROM `logs` WHERE `logs`.`host` like '%.yonder.ru'
