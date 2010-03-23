@@ -14,5 +14,6 @@ DELETE FROM logs WHERE host like 'feuro0.eurociber.es';
 
 Versiones Roadmap:
 
-v1.1 - hIA!
+v1.1 - n2m!
+
 v1.2 - Proyecto Matrix
