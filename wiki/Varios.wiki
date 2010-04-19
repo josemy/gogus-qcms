@@ -17,3 +17,5 @@ Versiones Roadmap:
 v1.1 - n2m!
 
 v1.2 - Proyecto Matrix
+
+Query de 118bot: http://quecom.es/oos_test/11870.php?q=Pizzeria&c=Madrid
